@@ -36,7 +36,7 @@ def ssh_command(ip,user,passwd,command):
 
     return
 
-#ssh_command("123.56.107.227","root","xxxx","id")
+#ssh_command("123.56.xxx","root","xxxx","id")
 
 
 def getHtml(url):
